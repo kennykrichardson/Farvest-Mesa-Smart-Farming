@@ -153,7 +153,7 @@ Farvest/
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/kennykrichardson/Farvest.git
+git clone https://github.com/kennykrichardson/Farvest-Mesa-Smary-Farming.git
 
 cd Farvest
 
@@ -238,7 +238,7 @@ Open an issue or submit a pull request.
 
 # 👨‍💻 Author
 
-**Kenny Richardson**
+**Kenny Richardson Kodipally**
 
 Engineer • AI Developer • Simulation Enthusiast
 
