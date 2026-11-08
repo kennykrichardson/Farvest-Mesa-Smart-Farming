@@ -109,6 +109,11 @@ Farvest follows a layered architecture that separates the simulation engine from
 └── .gitignore
 ```
 
+## Screenshots
+
+### Farvest Dashboard
+![Farvest Dashboard](screenshots/farvest-dashboard.jpeg)
+
 ### 🔄 How It Works
 
 The frontend communicates with FastAPI through HTTP requests, while the backend interacts with the Mesa simulation to retrieve and update farm state.
